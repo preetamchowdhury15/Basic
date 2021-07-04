@@ -1,0 +1,12 @@
+{"level":30,"time":"2021-07-02T15:46:19.442Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"Listening on 60767"}
+{"level":30,"time":"2021-07-02T15:46:20.046Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-07-02T15:46:20.063Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"Changed active context"}
+{"level":30,"time":"2021-07-02T15:46:20.078Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-07-02T15:46:20.451Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"Video path: undefined"}
+{"level":30,"time":"2021-07-02T15:46:20.452Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"Changed active page"}
+{"level":30,"time":"2021-07-02T15:46:25.233Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"Changed active context"}
+{"level":30,"time":"2021-07-02T15:46:25.233Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"Changing current active page"}
+{"level":30,"time":"2021-07-02T15:46:25.233Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"Changed active page"}
+{"level":30,"time":"2021-07-02T15:46:25.297Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"Changed active context"}
+{"level":30,"time":"2021-07-02T15:46:25.297Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"Changing current active page"}
+{"level":30,"time":"2021-07-02T15:46:25.297Z","pid":3820,"hostname":"KF5CG9396GBS","msg":"Changed active page"}
